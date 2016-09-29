@@ -1,2 +1,4 @@
 # my_pac
-My PAC backup.
+
+My customized PAC backup based on proxy.pac file in [GoProxy](https://github.com/phuslu/goproxy/).
+
